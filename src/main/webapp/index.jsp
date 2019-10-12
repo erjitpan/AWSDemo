@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Example</title>
+        <title>JSP Example-new</title>
     </head>
     <body bgcolor="red">
         <form method="post" action="login.jsp">
